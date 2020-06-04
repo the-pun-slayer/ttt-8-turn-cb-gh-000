@@ -9,7 +9,7 @@ def turn(board)
   end
 
   move(board,index,c="X")
-    
+
 end
 
 def display_board(b)
